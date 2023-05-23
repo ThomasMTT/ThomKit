@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="tempDirectory">D:\tmp\ThomKit\</entry>
+    <entry key="EditorPath">"C:\Program Files\Microsoft VS Code\Code.exe"&gt;</entry>
+    <entry key="SourceDirectory">D:\Proyectos\ThomKit\src\</entry>
+</properties>
